@@ -1,1 +1,4 @@
-almostest123,7846638545
+[
+  {"key": "almoskey123", "userid": "7846638545"},
+  {"key": "key_value_2", "userid": "user_id_2"}
+]
